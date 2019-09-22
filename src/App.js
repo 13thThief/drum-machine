@@ -103,6 +103,9 @@ class Pad extends React.Component {
   }
 }
 
+// Pad styles from
+// https://codepen.io/brandonbrule/pen/LRWxYL
+
 class PadGrid extends React.Component {
   constructor(props) {
     super(props);
